@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6d3aeaed-1c51-484b-8b01-c620cb7eb0b6" name="Changes" comment="hw6">
+      <change afterPath="$PROJECT_DIR$/src/task1/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task1/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task1/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task1/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task2/CalcMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task2/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task2/IngCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task2/ProgCalculator.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2XlSNAYppEqRsRhIAbzhQPtU0NM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "hw7",
+    "jdk.selected.JAVA_MODULE": "10",
+    "last_opened_file_path": "C:/Users/omali/IdeaProjects/aqa-hillel",
+    "onboarding.tips.debug.path": "C:/Users/omali/IdeaProjects/aqa-hillel/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.15977012",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "configurable.group.appearance"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6d3aeaed-1c51-484b-8b01-c620cb7eb0b6" name="Changes" comment="" />
+      <created>1699202131751</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699202131751</updated>
+    </task>
+    <task id="LOCAL-00001" summary="hw6">
+      <option name="closed" value="true" />
+      <created>1699341378121</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1699341378121</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="hw6" />
+    <option name="LAST_COMMIT_MESSAGE" value="hw6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
