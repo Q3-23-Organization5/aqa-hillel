@@ -3,7 +3,6 @@ import java.io.PrintStream;
 public class CheckUser {
     public CheckUser() {
     }
-
     public static void main(String[] args) {
         User User1 = new User();
         User1.setName("TestUser1");
