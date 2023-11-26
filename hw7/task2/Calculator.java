@@ -3,14 +3,11 @@ package task2;
 class Calculator {
     protected double result;
     public void add(double a, double b) {
-        result = a + b;
-    }
+        result = a + b;}
     public void subtract(double a, double b) {
-        result = a - b;
-    }
+        result = a - b;}
     public void multiply(double a, double b) {
-        result = a * b;
-    }
+        result = a * b;}
     public void divide(double a, double b) {
         if (b != 0) {
             result = a / b;
