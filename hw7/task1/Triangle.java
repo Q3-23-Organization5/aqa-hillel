@@ -3,8 +3,6 @@ package task1;
 import java.util.Objects;
 
 public class Triangle extends Shape {
-    private double a=1, b=2, c=3;
-
     protected String color = "blue";
     private double base=10;
     private double height=20;
