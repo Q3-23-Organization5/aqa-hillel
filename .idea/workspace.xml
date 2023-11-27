@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="550a306c-efd7-4aa1-a947-16161e74ea73" name="Changes" comment="homework10 updated" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="homework7-2" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;OlenaMaliuhina&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="3d445f9f-3716-4aad-9851-6a5f77852fd1" />
+        <option name="url" value="https://github.com/Q3-23-Organization5/aqa-hillel.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2Xyt8l6FHXjx09Kuq9HZ7BkIaN3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/omali/aqa-hillel",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.15977012",
+    "settings.editor.selected.configurable": "configurable.group.appearance"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task1.Main" />
+      <module name="aqa-hillel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="550a306c-efd7-4aa1-a947-16161e74ea73" name="Changes" comment="" />
+      <created>1699612990086</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699612990086</updated>
+    </task>
+    <task id="LOCAL-00001" summary="homework6">
+      <option name="closed" value="true" />
+      <created>1699613640100</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1699613640100</updated>
+    </task>
+    <task id="LOCAL-00002" summary="homework6">
+      <option name="closed" value="true" />
+      <created>1699627921689</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1699627921689</updated>
+    </task>
+    <task id="LOCAL-00003" summary="homework6">
+      <option name="closed" value="true" />
+      <created>1699628196645</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1699628196645</updated>
+    </task>
+    <task id="LOCAL-00004" summary="homework7">
+      <option name="closed" value="true" />
+      <created>1699629092089</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1699629092089</updated>
+    </task>
+    <task id="LOCAL-00005" summary="homework8">
+      <option name="closed" value="true" />
+      <created>1699630674677</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1699630674677</updated>
+    </task>
+    <task id="LOCAL-00006" summary="homework8">
+      <option name="closed" value="true" />
+      <created>1700122468982</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1700122468982</updated>
+    </task>
+    <task id="LOCAL-00007" summary="homework8">
+      <option name="closed" value="true" />
+      <created>1700122542805</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1700122542805</updated>
+    </task>
+    <task id="LOCAL-00008" summary="homework10">
+      <option name="closed" value="true" />
+      <created>1700123239872</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1700123239872</updated>
+    </task>
+    <task id="LOCAL-00009" summary="homework10 updated">
+      <option name="closed" value="true" />
+      <created>1701019800375</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1701019800375</updated>
+    </task>
+    <task id="LOCAL-00010" summary="homework10 updated">
+      <option name="closed" value="true" />
+      <created>1701019932338</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1701019932338</updated>
+    </task>
+    <task id="LOCAL-00011" summary="homework10 updated">
+      <option name="closed" value="true" />
+      <created>1701019961490</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1701019961490</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="homework6" />
+    <MESSAGE value="homework7" />
+    <MESSAGE value="homework9" />
+    <MESSAGE value="homework8" />
+    <MESSAGE value="homework10" />
+    <MESSAGE value="homework10 updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="homework10 updated" />
+  </component>
+</project>
