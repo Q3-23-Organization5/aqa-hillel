@@ -15,13 +15,13 @@ public abstract class Shape {
 
         return y;
     }
-    protected double calculateArea(){
+    protected abstract double calculateArea(){
         return 0;
     };
-    protected double calculatePerimeter(){
+    protected abstract double calculatePerimeter(){
         return 0;
     };
-    protected void paint(){
+    protected abstract void paint(){
     };
     @Override
     public boolean equals(Object o) {
