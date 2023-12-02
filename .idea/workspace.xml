@@ -4,7 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="26d01865-531b-4640-9607-666f382433b3" name="Changes" comment="homework10 updated" />
+    <list default="true" id="26d01865-531b-4640-9607-666f382433b3" name="Changes" comment="homework10 updated">
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aqa-hillel.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw8/task3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_28_11_2023_19_11__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_28_11_2023_19_11__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_28_11_2023_19_11__Changes_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_28_11_2023_19_11__Changes_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw8/task1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/hw8/task1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw8/task1/Mobile.java" beforeDir="false" afterPath="$PROJECT_DIR$/hw8/task1/Mobile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw8/task1/MobilePhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/hw8/task1/MobilePhone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw8/task1/Model.java" beforeDir="false" afterPath="$PROJECT_DIR$/hw8/task1/Model.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw8/task2/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/hw8/task2/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw8/task2/Magazine.java" beforeDir="false" afterPath="$PROJECT_DIR$/hw8/task2/Magazine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw8/task3/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/hw8/task3/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw8/task3/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/hw8/task3/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw8/task3/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/hw8/task3/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw8/task3/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/hw8/task3/Triangle.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,18 +70,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/omali/aqa-hillel&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.15977012&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "homework8",
+    "last_opened_file_path": "C:/Users/omali/aqa-hillel",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.15977012",
+    "settings.editor.selected.configurable": "configurable.group.appearance"
   }
-}</component>
-  <component name="RunManager">
+}]]></component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="task3" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.task2.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="task1.Main" />
       <module name="aqa-hillel" />
@@ -77,8 +102,37 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="task2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task2.Main" />
+      <module name="aqa-hillel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task3.Main" />
+      <module name="aqa-hillel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.task2.Main" />
+        <item itemvalue="Application.task3.Main" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main" />
       </list>
@@ -181,7 +235,23 @@
       <option name="project" value="LOCAL" />
       <updated>1701019961490</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="homework10 updated">
+      <option name="closed" value="true" />
+      <created>1701247057386</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1701247057386</updated>
+    </task>
+    <task id="LOCAL-00013" summary="homework10 updated">
+      <option name="closed" value="true" />
+      <created>1701247727287</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1701247727288</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -201,6 +271,7 @@
     <MESSAGE value="homework9" />
     <MESSAGE value="homework8" />
     <MESSAGE value="homework10" />
+    <MESSAGE value="commit xml files" />
     <MESSAGE value="homework10 updated" />
     <option name="LAST_COMMIT_MESSAGE" value="homework10 updated" />
   </component>

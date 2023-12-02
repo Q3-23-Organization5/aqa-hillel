@@ -1,8 +1,6 @@
 package task1;
 
-public interface Mobile {
+ interface Mobile {
     String NAME = "My name";
-    public void isPortable();
-
-
+     void isPortable();
 }

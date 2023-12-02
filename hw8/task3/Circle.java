@@ -15,6 +15,11 @@ public class Circle extends Shape{
         return  r;
     }
     @Override
+    protected double calculatePerimeter() {
+        return 0;
+    }
+
+    @Override
     protected void paint(){
         System.out.println("circle area is: " + calculateArea());
         System.out.println("color is: " + color);

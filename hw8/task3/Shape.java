@@ -8,21 +8,15 @@ public abstract class Shape {
     private double y;
 
     public double getX() {
-
         return x;
     }
     public double getY() {
-
         return y;
     }
-    protected abstract double calculateArea(){
-        return 0;
-    };
-    protected abstract double calculatePerimeter(){
-        return 0;
-    };
-    protected abstract void paint(){
-    };
+    protected abstract double calculateArea();
+
+    protected abstract double calculatePerimeter();
+    protected abstract void paint();
     @Override
     public boolean equals(Object o) {
         if (this == o) return true;
@@ -35,7 +29,7 @@ public abstract class Shape {
     public int hashCode() {
         return Objects.hash(color);
     }
-    public static void main(String[] args) {
+   /* public static void main(String[] args) {
         Circle circle = new Circle(10);
         Rectangle rectangle = new Rectangle();
         Triangle triangle = new Triangle(5,9);
@@ -45,6 +39,6 @@ public abstract class Shape {
             shape.calculateArea();
             shape.paint();
 
-        }
+        }*/
     }
-}
+

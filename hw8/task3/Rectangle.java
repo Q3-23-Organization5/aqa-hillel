@@ -1,18 +1,9 @@
 package task3;
-
 import java.util.Objects;
 
 public class Rectangle extends Shape {
-    private double a, b, c,d;
-    double length = 10;
+      double length = 10;
     double breadth = 20;
-
-    public Rectangle(double a, double b, double c, double d){
-        this.a = a;
-        this.b = b;
-        this.c = c;
-        this.d = d;
-    }
     public Rectangle(){
     };
     protected String color = "white";
@@ -22,6 +13,12 @@ public class Rectangle extends Shape {
         double res = length*breadth;
         return res;
     }
+
+    @Override
+    protected double calculatePerimeter() {
+        return 0;
+    }
+
     @Override
     public void paint(){
         System.out.println("Area of Rectangle is: " + calculateArea());

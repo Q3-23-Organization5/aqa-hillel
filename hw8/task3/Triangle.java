@@ -3,16 +3,9 @@ package task3;
 import java.util.Objects;
 
 public class Triangle extends Shape {
-    private double a=1, b=2, c=3;
-
     protected String color = "blue";
     private double base=10;
     private double height=20;
-
-    //public Triangle() {
-    // this.a = a;
-    // this.b = b;
-    // this.c = c;
 
     public Triangle(double base, double height) {
         this.base = base;
@@ -23,12 +16,12 @@ public class Triangle extends Shape {
     public double calculateArea() {
         return 0.5 * base * height; // Calculate area of triangle
     }
-    //@Override
-    //public double calculateArea() {
-    // double a=1, b=2, c=3;
-    //double res = Math.abs((a - c)*(b - a)-(a - b)*(c - a))*0.5;
-    //return res;
-    //}
+
+    @Override
+    protected double calculatePerimeter() {
+        return 0;
+    }
+
     @Override
     public void paint(){
         System.out.println("Area of Triangle is: " + calculateArea());
